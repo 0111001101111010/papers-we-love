@@ -1,4 +1,22 @@
+# Distributed Systems
+
+## External Papers
+
 * [A simple totally ordered broadcast protocol](http://labs.yahoo.com/files/ladis08.pdf)
+
+* [Above the Clouds: A Berkeley View of Cloud Computing](http://www.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf)
+
+* The Calvin papers:
+
+  * [The Case for Determinism in Database Systems](http://cs-www.cs.yale.edu/homes/dna/papers/determinism-vldb10.pdf)
+
+  * [Consistency Tradeoffs in Modern Distributed Database System Design](http://cs-www.cs.yale.edu/homes/dna/papers/abadi-pacelc.pdf)
+
+  * [Modularity and Scalability in Calvin](http://sites.computer.org/debull/A13june/calvin1.pdf)
+
+  * [Calvin: Fast Distributed Transactions for Partitioned Database Systems](http://www.cs.yale.edu/homes/dna/papers/calvin-sigmod12.pdf)
+
+  * [Lightweight Locking for Main Memory Database Systems](http://cs-www.cs.yale.edu/homes/dna/papers/vll-vldb13.pdf)
 
 * [Cassandra - A Decentralized Structured Storage System](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.6751&rep=rep1&type=pdf)
 
@@ -32,6 +50,8 @@
 
 * [MillWheel: Fault-Tolerant Stream Processing at Internet Scale](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/41378.pdf)
 
+* [Omega: flexible, scalable schedulers for large compute clusters](http://research.google.com/pubs/archive/41684.pdf) 
+
 * [Optimistic replication](http://pages.cs.wisc.edu/~remzi/Classes/739/Spring2004/Papers/optimistic-survey.pdf)
 
 * [Paxos Made Live - An Engineering Perspective](http://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf)
@@ -45,6 +65,8 @@
 * [Resilient Overlay Networks](http://nms.lcs.mit.edu/papers/ron-sosp2001.pdf)
 
 * [Sinfonia: A New Paradigm for Building Scalable Distributed Systems](http://research.microsoft.com/en-us/people/aguilera/sinfonia-aguilera-sosp2007.pdf)
+
+* [Sparrow: Distributed, Low Latency Scheduling](http://people.csail.mit.edu/matei/papers/2013/sosp_sparrow.pdf)
 
 * [The Byzantine Generals Problem](http://www.andrew.cmu.edu/course/15-749/READINGS/required/resilience/lamport82.pdf)
 
@@ -67,3 +89,9 @@
 * [Viewstamped Replication: A New Primary Copy Method to Support Highly-Available Distributed Systems](http://www.pmg.csail.mit.edu/papers/vr.pdf)
 
 * [VL2: A Scalable and Flexible Data Center Network](http://research.microsoft.com/pubs/80693/vl2-sigcomm09-final.pdf)
+
+## Related Works
+
+### [“On the Electrodynamics of Moving Bodies” (1905) — Einstein](../historical/physics/on-the-electrodynamics-of-moving-bodies.pdf)
+
+By solving the [asymmetries](http://en.wikipedia.org/wiki/Moving_magnet_and_conductor_problem) that arise in Maxwell’s equations, Einstein’s 1905 paper set the stage for current distributed systems work by demonstrating that there is no absolute frame of reference and by providing an upper bound on the speed of communication. 

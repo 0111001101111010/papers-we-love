@@ -6,14 +6,18 @@ Repository related to the following meetups:
 * [SF - Papers We Love too](http://www.meetup.com/papers-we-love-too/)
 * [London - Papers We Love](http://www.meetup.com/papers-we-love-london)
 * [Saint Louis - Papers We Love](http://www.meetup.com/Papers-We-Love-in-saint-louis/)
+* [Colorado - Papers We Love](http://www.meetup.com/Papers-We-Love-Boulder/)
+* [Ohio - Papers We Love](http://www.meetup.com/Papers-We-Love-Columbus/)
+* [Berlin - Papers We Love](http://www.meetup.com/Papers-We-Love-Berlin/)
 
 Let us know if you are interested in starting a [chapter](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter)!
 
 ### Past Presentations
 
-* Our latest presentation was led by [Michael Bernstein](http://michaelrbernste.in/) on [A Unified Theory of Garbage Collection](http://www.youtube.com/watch?v=XtUtfARSIv8)
+View a complete list of [past presentations](https://github.com/papers-we-love/papers-we-love/wiki/Past-Presentations) or check out our [Youtube](http://www.youtube.com/user/PapersWeLove) and [MixCloud](http://www.mixcloud.com/paperswelove/) (audio-only format) channels.
 
-See the complete list of [past presentations](https://github.com/papers-we-love/papers-we-love/wiki/Past-Presentations) or check out our Youtube [channel](http://www.youtube.com/user/PapersWeLove)
+## Search this Repo!
+[@polyfractal](https://github.com/polyfractal) indexed this repository with Elastic Search. Find papers [here](http://findpaperswelove.com) !
 
 ## Info
 
@@ -21,19 +25,21 @@ We're looking for pull requests related to papers we should add, better organiza
 
 ### Other Good Places to Find Papers
 
+* [Bell System Technical Journal, 1922-1983](http://alcatel-lucent.com/bstj/)
 * [Best Paper Awards in Computer Science](http://jeffhuang.com/best_paper_awards.html)
 * [Facebook](https://www.facebook.com/publications)
 * [Google Scholar](http://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng) (choose a subcategory)
-* [Microsoft](http://research.microsoft.com/apps/catalog/default.aspx?t=publications)
-* [Vijay D'Silva](http://www.eecs.berkeley.edu/~vijayd/#papers)
+* [Microsoft Research](http://research.microsoft.com/apps/catalog/default.aspx?t=publications)
 * [Functional Programming Books Review](http://alexott.net/en/fp/books/)
+* [MIT's Artificial Intelligence Lab Publications](http://dspace.mit.edu/handle/1721.1/39813)
 * [MIT's Distributed System's Reading Group](http://pdos.csail.mit.edu/dsrg/)
 * [arXiv Paper Repository](http://arxiv.org/)
 * [SciRate](https://scirate.com/)
 * [cat-v.org](http://doc.cat-v.org/)
 * [y-archive](http://yarchive.net/comp/index.html)
-* [Bell System Technical Journal](http://www3.alcatel-lucent.com/bstj/)
 * [netlib](http://www.netlib.org/)
+* [Services Engineering Reading List](https://github.com/mmcgrana/services-engineering)
+* [Readings in Distributed Systems](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
 
 Please check out our [wiki-page](https://github.com/papers-we-love/papers-we-love/wiki/Other-Good-Sources-of-Reading-Material) for links to blogs, books, exchanges that are worth a good read.
 
